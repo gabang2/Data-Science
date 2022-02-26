@@ -1,0 +1,2 @@
+a = "gayeong"
+goot = "ninini"
